@@ -22,9 +22,11 @@
 
 ## 🌐 Live Demo & Links
 
-🔗 **[🚀 Live Application](https://github.com/6535sam/samruddhi/STUDY_PLANNER/)** - Try it now!
+🔗 **[🚀 Live Application](https://github.com/6535sam/STUDY_PLANNER)** - Try it now!
 
-📹 **[🎥 Demo Video](https://C:\Users\nikam\Videos\Captures)** - See it in action!
+📹 **[🎥 Demo Video](https://drive.google.com/file/d/1MLa9_t6QE37IvaJJINQBdp8P5MCems79/view?usp=drive_link)** - See it in action!
+
+---
 
 ## ✨ Core Features
 
@@ -206,9 +208,8 @@ smart-study-planner/
 ### **Basic Usage (No Server Required)**
 ```bash
 # Clone the repository
-git clone "https://github.com/6535sam/samruddhi"/STUDY_PLANNER.git
+git clone https://github.com/6535sam/STUDY_PLANNER.git
 cd STUDY_PLANNER
-
 # Open directly in browser
 open index.html
 # or double-click index.html
@@ -225,7 +226,7 @@ npx http-server -p 3000
 # Option 3: Using the included batch file (Windows)
 start-server.bat
 
-# Then open: http://localhost:3000
+# Then open: http://127.0.0.1:5500/index.html
 ```
 
 ### **Browser Compatibility**
@@ -397,7 +398,7 @@ This project is open for contributions! Here's how you can help:
 
 ## 🧑‍� Author & Links
 
-Made with ❤️ by [Satyam Pandey](https://github.com/6535sam/samruddhi)
+Made with ❤️ by [Samruddhi Nikam](https://github.com/6535sam/samruddhi)
 
 - [GitHub](https://github.com/6535sam/samruddhi)
 - [LinkedIn](https://www.linkedin.com/in/samruddhi-nikam-132bb7297/)
@@ -649,7 +650,7 @@ const TASKS_PER_PAGE = 10; // Reduce from default 20
 **Setting Up Development Environment:**
 ```bash
 # Fork the repository
-git clone https://github.com/6535sam/samruddhi/STUDY_PLANNER.git
+git clone https://github.com/6535sam/STUDY_PLANNER.git
 cd STUDY_PLANNER
 
 # Start development server
@@ -699,7 +700,7 @@ npx http-server -p 3000
 ### Getting Help
 
 **Official Channels:**
-- 🐛 **Bug Reports**: [GitHub Issues](https://github.com/6535sam/samruddhi/STUDY_PLANNER/issues)
+- 🐛 **Bug Reports**: [GitHub Issues](git clone https://github.com/6535sam/STUDY_PLANNER.git/issues)
 - 💡 **Feature Requests**: GitHub Discussions
 - 📧 **Direct Contact**: Available on GitHub profile
 - 💬 **Community**: GitHub Discussions forum
@@ -783,15 +784,3 @@ Potential improvements could include:
 **Happy Studying! 🎓**
 
 *Built with ❤️ for students.*
-
-
-
-
-
-
-
-
-
-
-
-
