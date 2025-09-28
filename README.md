@@ -24,7 +24,7 @@
 
 🔗 **[🚀 Live Application](https://6535sam.github.io/STUDY_PLANNER/)** - Try it now!
 
-📹 **[🎥 Demo Video](C:\Users\nikam\Videos\Captures)** - See it in action!
+📹 **[🎥 Demo Video](https://drive.google.com/drive/home)** - See it in action!
 
 ---
 
@@ -784,6 +784,7 @@ Potential improvements could include:
 **Happy Studying! 🎓**
 
 *Built with ❤️ for students.*
+
 
 
 
